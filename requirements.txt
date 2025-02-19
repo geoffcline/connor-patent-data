@@ -1,1 +1,1 @@
-patent_client
+patent_client>5.0.0
